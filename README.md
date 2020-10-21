@@ -8,7 +8,7 @@ Python scripts for running TSS simulations for StormReactor research article.
 4. TSScheck_erosion.py: Python script for checking mass balance for StormReactor's erosion method.
 5. TSScheck_settling.py: Python script for comparing SWMM's gravity settling to StormReactor's gravity settling method.
 6. toolbox_TSS_time.py: Python script to check time requirement for running the TSS simulation.
-7. toolbox_TSS_time_noWQ.py: Python script to check time requirement for running the water quality module.
+7. toolbox_TSS_time_noWQ.py: Python script to check time requirement for running the simulation without the TSS module.
 
 ## License
 GNU General Public License v3.0
