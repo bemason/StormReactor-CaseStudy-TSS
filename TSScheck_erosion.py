@@ -50,7 +50,7 @@ Outfall_conc = []
 Outfall_cumload = []
 
 # Setup toolbox simulation
-with Simulation("./modifiedMBDoyle_TSS_V2.inp") as sim:
+with Simulation("./TSS.inp") as sim:
     # Setup toolbox methods
     ER = Link_Quality(sim, dict2)
     # Get asset information
